@@ -9,7 +9,7 @@ import { CartIconContainer, ShoppingIconStyles, ItemCount } from './cart-icon.st
 
 const CartIcon = ({ toggleCartHidden, itemCount }) => (
   <CartIconContainer onClick={toggleCartHidden}>
-    <ShoppingIconStyles className='shopping-icon' />
+    <ShoppingIconStyles />
     <ItemCount>{itemCount}</ItemCount>
   </CartIconContainer>
 )

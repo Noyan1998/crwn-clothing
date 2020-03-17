@@ -15,3 +15,7 @@ export const ItemDetails = styled.div`
   justify-content: center;
   padding: 10px 20px;
 `;
+
+export const CartItemImage = styled.img`
+  width: 30%;
+`;
