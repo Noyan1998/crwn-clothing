@@ -1,3 +1,3 @@
-### deployed online
+## E-commerce shopping website
 
-[KING Clothing Shop](https://king-clothing-shop.herokuapp.com/)
+[View Online](https://king-clothing-shop.herokuapp.com/)
